@@ -37,3 +37,4 @@
 |33. 브라우저의 렌더링 과정|https://suesuehwanhwan.tistory.com/56|✔|
 |34. DOM|https://suesuehwanhwan.tistory.com/57|✔|
 |35. 이벤트|https://suesuehwanhwan.tistory.com/58|✔|
+|36. 타이머|https://suesuehwanhwan.tistory.com/59|✔|
