@@ -39,3 +39,4 @@
 |35. 이벤트|https://suesuehwanhwan.tistory.com/58|✔|
 |36. 타이머|https://suesuehwanhwan.tistory.com/59|✔|
 |37. 동기와 비동기처리|https://suesuehwanhwan.tistory.com/60|✔|
+|38. Ajax|https://suesuehwanhwan.tistory.com/61|✔|
