@@ -44,4 +44,5 @@
 |40. 프로미스|https://suesuehwanhwan.tistory.com/63|✔|
 |41. 제너레이터와 async/await|https://suesuehwanhwan.tistory.com/64|✔|
 |42. 에러 처리|https://suesuehwanhwan.tistory.com/65|✔|
+|43. 모듈|https://suesuehwanhwan.tistory.com/66|✔|
 
