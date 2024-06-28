@@ -42,3 +42,5 @@
 |38. Ajax|https://suesuehwanhwan.tistory.com/61|✔|
 |39. REST API|https://suesuehwanhwan.tistory.com/62|✔|
 |40. 프로미스|https://suesuehwanhwan.tistory.com/63|✔|
+|41. 제너레이터와 async/await|https://suesuehwanhwan.tistory.com/64|✔|
+
