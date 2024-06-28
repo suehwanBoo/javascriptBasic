@@ -41,3 +41,4 @@
 |37. 동기와 비동기처리|https://suesuehwanhwan.tistory.com/60|✔|
 |38. Ajax|https://suesuehwanhwan.tistory.com/61|✔|
 |39. REST API|https://suesuehwanhwan.tistory.com/62|✔|
+|40. REST API|https://suesuehwanhwan.tistory.com/63|✔|
